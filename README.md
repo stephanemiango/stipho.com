@@ -40,7 +40,7 @@ Professionnel en administration systèmes et réseaux, diplômé d'une Licence P
 
 ## 🌍 Langues & Soft Skills
 - 🇫🇷 Français — Courant  
-- 🇸🇳 Sango — Courant  
+- cf Sango — Courant  
 - 🇬🇧 Anglais — Intermédiaire  
 - 🇪🇸 Espagnol — Débutant  
 
