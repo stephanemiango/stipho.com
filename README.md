@@ -1,8 +1,8 @@
 # Dieu Merci Stéphane Olympin MIANGO
 
-![Photo de profil](photo.jpg)
 
-> _« La science et la technologie sont mes armes pour bâtir un monde numérique plus sûr. »_ ⚡
+
+ _« La science et la technologie sont mes armes pour bâtir un monde numérique plus sûr. »_ ⚡
 
 ---
 
